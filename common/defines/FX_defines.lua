@@ -11,6 +11,7 @@ NDefines.NCareerProfile.MOD_STATISTICS_GROUP = "fuhrredux_career_profile"
 NDefines.NCareerProfile.MOD_STATISTICS_GROUP_NAME = "FUHRERREDUX_CAREER_PROFILE"
 
 -- Game
+NDefines.Ngame.START_DATE = "1930.1.1.1"
 NDefines.NGame.END_DATE = "1959.1.1.1"										-- Vanilla is 1949.1.1.1
 NDefines.NGame.HANDS_OFF_START_TAG = "BHU"									-- Vanilla is URG
 NDefines.NGame.DECISION_ALERT_TIMEOUT_DAYS = 60								-- Vanilla is 30
