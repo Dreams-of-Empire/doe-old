@@ -9,8 +9,8 @@ state={
 
 	history={
 		add_core_of = MNT
-		owner = SER
-		add_core_of = SER
+		owner = MNT
+		add_claim_by = SER
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

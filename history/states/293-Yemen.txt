@@ -10,7 +10,8 @@ state={
 		oil=1.0
 	}
 	history={
-		owner = YEM
+		owner = ARB
+		add_core_of = ARB
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

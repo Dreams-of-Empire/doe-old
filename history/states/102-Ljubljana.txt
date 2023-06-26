@@ -4,8 +4,9 @@ state={
 	name="STATE_102"
 
 	history={
+		add_core_of = CRO
+		owner = CRO
 		add_core_of = SLV
-		owner = SER
 		buildings = {
 			infrastructure = 3
 

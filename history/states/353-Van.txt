@@ -4,7 +4,7 @@ state={
 	name="STATE_353"
 
 	history={
-		owner = ARM
+		owner = KUR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -17,7 +17,7 @@ state={
 			6935 3 
 		}
 		add_core_of = ARM
-		add_claim_by = TUR
+		add_core_of = KUR
 
 	}
 

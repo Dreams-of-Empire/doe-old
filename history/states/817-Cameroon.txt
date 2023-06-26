@@ -4,8 +4,8 @@ state={
 
 	history={
 		add_core_of = CMR
-		owner = ITA
-    add_claim_by = ITA
+		owner = NFQ
+    	add_core_of = NFQ
 		buildings = {
 			infrastructure = 2
 			5036 = {
