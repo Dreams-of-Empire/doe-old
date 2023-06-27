@@ -5,6 +5,8 @@ set_technology = {
 	infantry_weapons = 1
 }
 
+set_cosmetic_tag = ENG_NGA
+
 set_convoys = 20
 set_politics = {	
 	ruling_party = social_liberal

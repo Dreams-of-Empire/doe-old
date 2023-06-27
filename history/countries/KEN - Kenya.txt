@@ -2,6 +2,8 @@
 
 oob = "KEN"
 
+set_cosmetic_tag = ENG_KEN
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

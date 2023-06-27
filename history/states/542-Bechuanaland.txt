@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		owner = SAF
+		owner = RHO
+		add_core_of = RHO
 		buildings = {
 			infrastructure = 1
 		}

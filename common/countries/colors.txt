@@ -1066,3 +1066,7 @@ SIR = {
 	color = rgb { 2 132 178 }
 	color_ui = rgb { 0 147 221 }
 }
+ALA = {
+	color = rgb { 25 125 210 }
+	color_ui = rgb { 25 125 210 }
+}

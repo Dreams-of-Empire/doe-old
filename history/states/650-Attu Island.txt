@@ -5,9 +5,9 @@ state=
 	manpower=20
 	state_category = tiny_island
 	
-	history=
-	{
-		owner = USA
+	history={
+		owner = ALA
+		add_core_of = ALA
 		victory_points = {
 			13067 1 
 		}
@@ -18,7 +18,5 @@ state=
 			}
 		}
 	}
-	provinces=
-	{
-13067 	}
+	provinces={ 13067 }
 }

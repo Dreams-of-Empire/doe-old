@@ -6,11 +6,11 @@ state=
 	
 	state_category = rural
 	
-	history=
-	{
-		owner = ITA
+	history={
+		owner = SOM
 		add_core_of = ERI
-    add_claim_by = ITA
+   		add_claim_by = ENG
+		add_core_of = SOM
 		victory_points = {
 			12766 1
 		}

@@ -14,37 +14,6 @@ set_stability = 0.60
 set_war_support = 0.20
 
 
-if = {
-	limit = {
-		LBA = {
-			is_puppet_of = ITA
-		}
-	}
-	LBA = {
-		set_cosmetic_tag = LBA_colony
-		add_ideas = {
-			limited_conscription
-			colonial_government
-		}		
-	}
-}
-if = {
-	limit = {
-		LBA = {
-			NOT = {
-				is_puppet_of = ITA
-			}
-		}
-	}
-	LBA = {
-		add_ideas = {
-			limited_conscription
-			ITA_guerrilla_conflict
-			colonial_government
-		}
-	}
-}	
-
 set_politics = {	
 	ruling_party = authoritarian_democrat
 	last_election = "1936.1.1"

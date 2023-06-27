@@ -6,9 +6,10 @@ state={
 	state_category = enclave
 
 	history={
+		add_core_of = SOM
 		add_core_of = DJI
-    add_claim_by = FRA
-		owner = FRA
+    	add_claim_by = ENG
+		owner = SOM
 		buildings = {
 			infrastructure = 3
 			air_base = 2

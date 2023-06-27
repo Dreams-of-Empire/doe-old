@@ -433,6 +433,7 @@ NGA_national_populist_DEF: "The Grand Authority of Nigeria"
 NGA_valkist: "Neo-Hausa Empire"
 NGA_valkist_ADJ: "Hausan"
 NGA_valkist_DEF: "The Great Empire of the Hausa"
+ENG_NGA: "Britist West Africa"
 
 # Eritrea
 ERI_vanguardist: "Eritrea"

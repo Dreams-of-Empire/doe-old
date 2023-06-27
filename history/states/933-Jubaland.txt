@@ -7,12 +7,12 @@ state=
 	state_category = rural
 	
 	history={
-		owner = ENG
+		owner = SOM
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = SOM
-    add_claim_by = ENG
+    	add_claim_by = ENG
 	}
     provinces= { 
 	    11014 12941 

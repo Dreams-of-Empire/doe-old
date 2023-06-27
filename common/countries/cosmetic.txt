@@ -270,6 +270,14 @@ ENG_USA = {
 	color = rgb { 213 0 0 }
 	color_ui = rgb { 213 0 0 }
 }
+ENG_NGA = {
+	color = rgb { 214 0 0 }
+	color_ui = rgb { 214 0 0 }
+}
+ENG_SOM = {
+	color = rgb { 215 0 0 }
+	color_ui = rgb { 215 0 0 }
+}
 PHI_ENG = {
 	color = rgb { 214 0 0 }
 	color_ui = rgb { 214 0 0 }
@@ -377,6 +385,10 @@ COG_BEL = {
 HUN_kingdom = {
 	color = rgb { 194 198 215 }
 	color_ui = rgb { 255 255 255 }
+}
+HUN_TRA = {
+	color = rgb { 158 90 97 }
+	color_ui = rgb { 158 90 97 }
 }
 ZHI_BEI = {
 	color = rgb { 180 120 0 }
@@ -561,6 +573,10 @@ UKR_POL = {
 RUS_puppet = {
 	color = rgb { 80 100 100 }
 	color_ui = rgb { 80 100 100 }
+}
+RUS_ALA = {
+	color = rgb { 97 131 80 } 
+	color_ui = rgb { 97 131 80 }
 }
 BOH_puppet_communist = {
 	color = rgb { 140 15 15 }

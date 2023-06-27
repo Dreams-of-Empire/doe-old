@@ -134,7 +134,6 @@ set_popularities = {
 
 create_faction = continental_entente
 add_to_faction = FRA
-add_to_faction = ITA
 add_to_faction = FIC
 add_to_faction = PHN
 
@@ -213,7 +212,7 @@ TUN = {
 
 if = {
 	limit = {
-		has_dlc = "Together for Victory"
+		has_dlc_tfv = yes
 	}
 	set_autonomy = {
 		target = RHI
@@ -250,6 +249,10 @@ if = {
 		autonomous_state = autonomy_colony
 		freedom_level = 0.1
 	}
+	set_autonomy = {
+		target = ISR
+		autonomy_state = autonomy_protectorate
+	}
 	else = {
 		puppet = RHI
 		puppet = PHN
@@ -258,6 +261,7 @@ if = {
 		puppet = NFQ
 		puppet = FIC
 		puppet = TUN
+		puppet = ISR
 	}
 }
 

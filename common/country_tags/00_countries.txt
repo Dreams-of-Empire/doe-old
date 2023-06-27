@@ -105,6 +105,7 @@ ORE = "countries/WestEuropean.txt" # Oregon
 SNE = "countries/WestEuropean.txt" # Shoshone
 SRA = "countries/WestEuropean.txt" # Socialist Republic of America
 QUE = "countries/WestEuropean.txt" # Quebec
+ALA = "countries/WestEuropean.txt" # Alaska
 
 ### South America
 MEX = "countries/SouthAmerican.txt" # Mexico
