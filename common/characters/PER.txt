@@ -26,11 +26,11 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 		corps_commander = {

@@ -78,8 +78,8 @@ set_popularities = {
 	social_conservative = 40
 	authoritarian_democrat = 0
 	paternal_autocrat = 0
-	national_populist = 4
-	valkist = 0
+	fasci = 4
+	paternal_autocrat = 0
 }
 
 recruit_character = BEL_King_Albert_I

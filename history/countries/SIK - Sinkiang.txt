@@ -33,8 +33,8 @@ set_popularities = {
   social_conservative = 8
   authoritarian_democrat = 4
   paternal_autocrat = 60
-  national_populist = 8
-  valkist = 0
+  fasci = 8
+  paternal_autocrat = 0
 }
 
 recruit_character = SIK_Ma_Zhongying

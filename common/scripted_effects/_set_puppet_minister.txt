@@ -84,13 +84,13 @@ set_puppet_minister_middle_east = {}
 #			}
 #		}
 #		else_if = {
-#			limit = { has_authoritarian_government = yes }	# authotharian_democrat, paternal_autocrat, national_populist
+#			limit = { has_authoritarian_government = yes }	# authotharian_democrat, paternal_autocrat, fasci
 #			add_ideas = {
 #				# Insert Ministers here
 #			}
 #		}
 #		else_if = {
-#			limit = { has_dictatorship_government = yes }	# paternal_autocrat, national_populist, valkist
+#			limit = { has_dictatorship_government = yes }	# paternal_autocrat, fasci, paternal_autocrat
 #			add_ideas = {
 #				# Insert Ministers here
 #			}

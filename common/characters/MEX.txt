@@ -477,7 +477,7 @@ characters = {
 				ROOT = { clr_country_flag = MEX_Alberto_B_Gutierrez_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_state_secularist
 			}
 		}
@@ -504,7 +504,7 @@ characters = {
 				ROOT = { clr_country_flag = MEX_Jose_Antonio_Urquiza_hog_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				hog_flamboyant_tough_guy
 			}
 		}
@@ -882,7 +882,7 @@ characters = {
 				ROOT = { clr_country_flag = MEX_Alfonso_Junco_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_moderate_among_radicals
 			}
 		}
@@ -909,7 +909,7 @@ characters = {
 				ROOT = { clr_country_flag = MEX_Jose_de_Leon_Toral_for_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				for_great_compromiser
 			}
 		}
@@ -1238,7 +1238,7 @@ characters = {
 				ROOT = { clr_country_flag = MEX_Pedro_Zuloaga_Irigoiti_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_keynesian_economy
 			}
 		}
@@ -1508,7 +1508,7 @@ characters = {
 				ROOT = { clr_country_flag = MEX_Daniel_Cosio_Villegas_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_preserver_of_culture
 			}
 		}
@@ -1535,7 +1535,7 @@ characters = {
 				ROOT = { clr_country_flag = MEX_Victoriano_Ramirez_sec_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				sec_crime_fighter
 			}
 		}
@@ -1924,7 +1924,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}
@@ -1936,7 +1936,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 	}

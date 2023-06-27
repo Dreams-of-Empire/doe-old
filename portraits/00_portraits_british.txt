@@ -262,14 +262,14 @@ SAF = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_5.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_16.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_13.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_15.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_16.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_13.png"
@@ -364,14 +364,14 @@ ZAF = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_5.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_16.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_13.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_15.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_16.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_13.png"
@@ -466,14 +466,14 @@ ZIM = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_5.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_16.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_13.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_15.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_16.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_13.png"

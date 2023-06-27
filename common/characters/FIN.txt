@@ -193,7 +193,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 		advisor = {
@@ -211,7 +211,7 @@ characters = {
 				ROOT = { clr_country_flag = FIN_Vilho_Annala_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_political_protege
 			}
 		}
@@ -225,7 +225,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 		advisor = {
@@ -243,7 +243,7 @@ characters = {
 				ROOT = { clr_country_flag = FIN_Vilho_Helanen_sec_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				sec_secret_police_chief
 			}
 		}
@@ -1071,7 +1071,7 @@ characters = {
 				ROOT = { clr_country_flag = FIN_Bruno_Salmiala_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_flamboyant_tough_guy
 			}
 		}
@@ -1368,7 +1368,7 @@ characters = {
 				ROOT = { clr_country_flag = FIN_Arne_Somersalo_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_iron_fisted_brute
 			}
 		}
@@ -1811,7 +1811,7 @@ characters = {
 				ROOT = { clr_country_flag = FIN_Jussi_Muilu_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_balanced_budget_economy
 			}
 		}
@@ -1838,7 +1838,7 @@ characters = {
 				ROOT = { clr_country_flag = FIN_Rafael_Haarla_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_mixed_economy
 			}
 		}
@@ -2108,7 +2108,7 @@ characters = {
 				ROOT = { clr_country_flag = FIN_Elias_Simojoki_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_compassionate_gentleman
 			}
 		}
@@ -2135,7 +2135,7 @@ characters = {
 				ROOT = { clr_country_flag = FIN_Martti_Pihkala_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_prince_of_terror
 			}
 		}

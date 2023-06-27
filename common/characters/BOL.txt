@@ -273,7 +273,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 	}
@@ -302,7 +302,7 @@ characters = {
 				ROOT = { clr_country_flag = BOL_Gualberto_Villarroel_Lopez_hog_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				hog_revanchist_conspirator
 			}
 		}
@@ -526,7 +526,7 @@ characters = {
 				ROOT = { clr_country_flag = BOL_Gonzalo_Romero_Alvarez_Garcia_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_hawkish_intervener
 			}
 		}
@@ -807,7 +807,7 @@ characters = {
 				ROOT = { clr_country_flag = BOL_Juan_Sanjines_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_military_entrepreneur
 			}
 		}
@@ -996,7 +996,7 @@ characters = {
 				ROOT = { clr_country_flag = BOL_Julian_V_Montellano_Carrasco_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_efficient_sociopath
 			}
 		}
@@ -1090,7 +1090,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}

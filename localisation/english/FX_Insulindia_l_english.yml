@@ -63,7 +63,7 @@ INS_MAJ_paternal_autocrat_party_long: "Ordo Kerajaan Majapahit (Absolutis)"
 INS_MAJ_national_populist_party: "Kerajaan Majapahit"
 INS_MAJ_national_populist_party_long: "Ordo Kerajaan Majapahit(Nasionalis)"
 INS_valkist_party: "PVI"
-INS_valkist_party_long: "Partai Valkist Insulindia"
+INS_valkist_party_long: "Partai paternal_autocrat Insulindia"
 
 #### Ideas ####
 INS_war_for_insulindian_independence_idea: "War For Insulindian Independence"

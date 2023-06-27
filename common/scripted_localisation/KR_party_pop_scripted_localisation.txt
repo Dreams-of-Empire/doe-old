@@ -70,13 +70,13 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_government = national_populist
+			has_government = fasci
 		}
-		localization_key = national_populist_subtype_desc
+		localization_key = fasci_subtype_desc
 	}
     text = {
 		trigger = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		localization_key = valkist_subtype_desc
 	}
@@ -290,8 +290,8 @@ defined_text = {
 	name = GetCoalitionNationalPopulist
 	text = {
 		trigger = {
-			NOT = { has_government = national_populist }
-			is_in_array = { ROOT.coalition_partners = token:national_populist }
+			NOT = { has_government = fasci }
+			is_in_array = { ROOT.coalition_partners = token:fasci }
 		}
 		localization_key = party_pop_coalition_national_populist
 	}
@@ -303,8 +303,8 @@ defined_text = {
 	name = GetCoalitionValkist
 	text = {
 		trigger = {
-			NOT = { has_government = valkist }
-			is_in_array = { ROOT.coalition_partners = token:valkist }
+			NOT = { has_government = paternal_autocrat }
+			is_in_array = { ROOT.coalition_partners = token:paternal_autocrat }
 		}
 		localization_key = party_pop_coalition_valkist
 	}
@@ -370,13 +370,13 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			check_variable = { coalition_partner_var = token:national_populist }
+			check_variable = { coalition_partner_var = token:fasci }
 		}
 		localization_key = colour_natpop_brown
 	}
 	text = {
 		trigger = {
-			check_variable = { coalition_partner_var = token:valkist }
+			check_variable = { coalition_partner_var = token:paternal_autocrat }
 		}
 		localization_key = colour_green
 	}

@@ -119,8 +119,8 @@ set_popularities = {
   social_conservative = 10
   authoritarian_democrat = 2
   paternal_autocrat = 20
-  national_populist = 6
-  valkist = 0
+  fasci = 6
+  paternal_autocrat = 0
 }
 
 country_event = { id = ukraine.1 days = 5 } # Intro Event

@@ -54,7 +54,7 @@ characters = {
 		}
 		country_leader = {
       desc = POLITICS_REGENCY_COUNCIL_ROMANIA_DESC
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 		advisor = {
@@ -104,7 +104,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Corneliu_Zelea_Codreanu_hog_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				hog_determined_populist
 			}
 		}
@@ -644,7 +644,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Horia_Sima_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_backroom_backstabber
 			}
 		}
@@ -672,7 +672,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Ion_Mota_hog_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				hog_local_tyrant
 			}
 		}
@@ -691,7 +691,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Ion_Mota_for_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				for_iron_fisted_brute
 			}
 		}
@@ -880,7 +880,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Constantin_Papanace_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_moderate_among_radicals
 			}
 		}
@@ -907,7 +907,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Mihail_Sturdza_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_hawkish_intervener
 			}
 		}
@@ -934,7 +934,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Radu_Mironovici_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_biased_intellectual
 			}
 		}
@@ -1123,7 +1123,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Ilie_Garneata_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_mixed_economy
 			}
 		}
@@ -1150,7 +1150,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Mihail_Manoilescu_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_steel_magnate
 			}
 		}
@@ -1177,7 +1177,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Gheorghe_Clime_eco_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				eco_resource_industrialist
 			}
 		}
@@ -1366,7 +1366,7 @@ characters = {
 				ROOT = { clr_country_flag = ROM_Ion_Belgea_sec_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				sec_preserver_of_culture
 			}
 		}

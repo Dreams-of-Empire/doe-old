@@ -27,7 +27,7 @@ set_politics = {
 
 set_popularities = {
   market_liberal = 0
-  national_populist = 0
+  fasci = 0
   collectivist = 0
   authoritarian_democrat = 100
 }

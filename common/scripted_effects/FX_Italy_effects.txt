@@ -75,14 +75,14 @@ ITA_create_east_africa = {
       add_country_leader_role = {
         promote_leader = yes
         country_leader = {
-          ideology = national_populist_subtype
+          ideology = fasci_subtype
           traits = { }
         }
       }
       add_country_leader_role = {
         promote_leader = yes
         country_leader = {
-          ideology = valkist_subtype
+          ideology = paternal_autocrat_subtype
           traits = { }
         }
       }
@@ -677,8 +677,8 @@ ITA_become_kingdom = {
         promote_character = social_conservative_subtype
         promote_character = authoritarian_democrat_subtype
         promote_character = paternal_autocrat_subtype
-        promote_character = national_populist_subtype
-        promote_character = valkist_subtype
+        promote_character = fasci_subtype
+        promote_character = paternal_autocrat_subtype
       }
     }
   }

@@ -385,15 +385,15 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = national_populist_subtype
+			has_country_leader_ideology = fasci_subtype
 		}
-		localization_key = national_populist
+		localization_key = fasci
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = valkist_subtype
+			has_country_leader_ideology = paternal_autocrat_subtype
 		}
-		localization_key = valkist
+		localization_key = paternal_autocrat
 	}
 
 	text = {
@@ -1117,15 +1117,15 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = valkist_subtype
+			has_country_leader_ideology = paternal_autocrat_subtype
 		}
 		localization_key = valkist_subtype_desc
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = national_populist_subtype
+			has_country_leader_ideology = fasci_subtype
 		}
-		localization_key = national_populist_subtype_desc
+		localization_key = fasci_subtype_desc
 	}
 	text = {
 		trigger = {
@@ -1582,7 +1582,7 @@ defined_text = {
 	text = {
 		trigger = {
 			OR = {
-				has_country_leader_ideology = valkist_subtype
+				has_country_leader_ideology = paternal_autocrat_subtype
 				has_country_leader_ideology = panasian_nichirenist_subtype
 				has_country_leader_ideology = occultism_subtype
 				has_country_leader_ideology = val_legionarism_subtype
@@ -1593,7 +1593,7 @@ defined_text = {
 	text = {
 		trigger = {
 			OR = {
-				has_country_leader_ideology = national_populist_subtype
+				has_country_leader_ideology = fasci_subtype
 				has_country_leader_ideology = statist_showaist_subtype	
 				has_country_leader_ideology = legionarism_subtype
 				has_country_leader_ideology = integralism_subtype
@@ -1663,13 +1663,13 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = national_populist_subtype
+			has_country_leader_ideology = fasci_subtype
 		}
-		localization_key = national_populist_subtype_desc
+		localization_key = fasci_subtype_desc
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = valkist_subtype
+			has_country_leader_ideology = paternal_autocrat_subtype
 		}
 		localization_key = valkist_subtype_desc
 	}

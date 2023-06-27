@@ -44,7 +44,7 @@ bookmarks = {
     }
     "GER" = {
       history = "GER_FUHRERREDUX_DESC"
-      ideology = valkist
+      ideology = paternal_autocrat
       ideas = {
         GER_nation_reborn
         GER_naval_treaty
@@ -124,7 +124,7 @@ bookmarks = {
     ### Minors
     "HOL" = {
       history = "HOL_FUHRERREDUX_DESC"
-      ideology = national_populist
+      ideology = fasci
       minor = yes
       ideas = {
         HOL_revaunchist_state
@@ -156,7 +156,7 @@ bookmarks = {
     }
     "HUN" = {
       history = "HUN_FUHRERREDUX_DESC"
-      ideology = national_populist
+      ideology = fasci
       minor = yes
       ideas = {
         hun_trianon
@@ -199,7 +199,7 @@ bookmarks = {
     }
     "BLR" = {
       history = "BLR_FUHRERREDUX_DESC"
-      ideology = valkist
+      ideology = paternal_autocrat
       minor = yes
       ideas = {
         BLR_agriarian_traditions
@@ -215,7 +215,7 @@ bookmarks = {
     }
 		"CRU" = {
       history = "CRU_FUHRERREDUX_DESC"
-      ideology = valkist
+      ideology = paternal_autocrat
       minor = yes
       ideas = {
         CRU_spirit_of_the_faithful1

@@ -69,8 +69,8 @@ social_conservative_allowed = {
 		has_government = social_conservative
 		has_government = authoritarian_democrat
 		has_government = paternal_autocrat
-		has_government = national_populist
-		has_government = valkist
+		has_government = fasci
+		has_government = paternal_autocrat
 	}
 }
 
@@ -80,8 +80,8 @@ authoritarian_democrat_allowed = {
 		has_government = social_conservative
 		has_government = authoritarian_democrat
 		has_government = paternal_autocrat
-		has_government = national_populist
-		has_government = valkist
+		has_government = fasci
+		has_government = paternal_autocrat
 	}
 }
 
@@ -90,8 +90,8 @@ paternal_autocrat_allowed = {
 		has_government = social_conservative
 		has_government = authoritarian_democrat
 		has_government = paternal_autocrat
-		has_government = national_populist
-		has_government = valkist
+		has_government = fasci
+		has_government = paternal_autocrat
 	}
 }
 
@@ -99,8 +99,8 @@ national_populist_allowed = {
 	OR = {
 		has_government = authoritarian_democrat
 		has_government = paternal_autocrat
-		has_government = national_populist
-		has_government = valkist
+		has_government = fasci
+		has_government = paternal_autocrat
 	}
 }
 
@@ -108,7 +108,7 @@ valkist_allowed = {
 	OR = {
 		has_government = authoritarian_democrat
 		has_government = paternal_autocrat
-		has_government = national_populist
-		has_government = valkist
+		has_government = fasci
+		has_government = paternal_autocrat
 	}
 }

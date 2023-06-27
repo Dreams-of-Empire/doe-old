@@ -54,8 +54,8 @@ set_popularities = {
   social_conservative = 14
   authoritarian_democrat = 0
   paternal_autocrat = 41
-  national_populist = 0
-  valkist = 0
+  fasci = 0
+  paternal_autocrat = 0
 }
 
 recruit_character = BOM_Jamnalal_Bajaj

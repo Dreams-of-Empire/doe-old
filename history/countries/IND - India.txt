@@ -57,7 +57,7 @@ set_stability = 0.6
 set_war_support = 0.6
 
 set_politics = {
-	ruling_party = national_populist
+	ruling_party = fasci
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
@@ -73,8 +73,8 @@ set_popularities = {
   social_conservative = 4
   authoritarian_democrat = 1
   paternal_autocrat = 1
-  national_populist = 70
-  valkist = 7
+  fasci = 70
+  paternal_autocrat = 7
 }
 
 add_ideas = {

@@ -53,7 +53,7 @@ add_ideas = {
 }
 	
 set_politics = {	
-	ruling_party = valkist
+	ruling_party = paternal_autocrat
 	last_election = "1933.5.17"
 	election_frequency = 60
 	elections_allowed = yes
@@ -69,8 +69,8 @@ set_popularities = {
   social_conservative = 0
   authoritarian_democrat = 0
   paternal_autocrat = 25
-  national_populist = 25
-  valkist = 50
+  fasci = 25
+  paternal_autocrat = 50
 }
 
 recruit_character = ZAF_D_F_Malan

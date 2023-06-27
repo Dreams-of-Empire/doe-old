@@ -176,7 +176,7 @@ characters = {
 			traits = { }
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 		advisor = {
@@ -194,7 +194,7 @@ characters = {
 				ROOT = { clr_country_flag = UKR_Dmitri_Dontsov_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_flamboyant_tough_guy
 			}
 		}
@@ -207,7 +207,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}
@@ -1738,7 +1738,7 @@ characters = {
 				ROOT = { clr_country_flag = UKR_Mikhaylo_Kolodzinsky_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_the_grey_cardinal
 			}
 		}
@@ -2265,7 +2265,7 @@ characters = {
 				ROOT = { clr_country_flag = UKR_Volodymyr_Kubiiovych_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_the_cloak_n_dagger_schemer
 			}
 		}
@@ -2292,7 +2292,7 @@ characters = {
 				ROOT = { clr_country_flag = UKR_Leonid_Kostariv_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_infantry_proponent
 			}
 		}
@@ -2319,7 +2319,7 @@ characters = {
 				ROOT = { clr_country_flag = UKR_Yaroslav_Diakon_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_preserver_of_culture
 			}
 		}

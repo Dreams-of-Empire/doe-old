@@ -105,14 +105,14 @@ ALG = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -227,14 +227,14 @@ EGY = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -349,14 +349,14 @@ WES = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -471,14 +471,14 @@ LBA = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -593,14 +593,14 @@ MOR = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -715,7 +715,7 @@ SUD = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -837,14 +837,14 @@ TUN = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -959,14 +959,14 @@ PHN = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -1081,14 +1081,14 @@ KUR = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -1203,14 +1203,14 @@ IRQ = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -1325,14 +1325,14 @@ ARB = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -1447,14 +1447,14 @@ YEM = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -1569,14 +1569,14 @@ ARM = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -1691,14 +1691,14 @@ AZR = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -1813,14 +1813,14 @@ TRK = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -1914,14 +1914,14 @@ ISR = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_5.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_16.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_13.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_15.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_16.png"
 				"gfx/leaders/Generic/Portrait_Europe_Generic_new_13.png"
@@ -2036,14 +2036,14 @@ PER = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		national_populist = {
+		fasci = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 			}
 		}
-		valkist = {
+		paternal_autocrat = {
 			male = {
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
@@ -2158,14 +2158,14 @@ PER = {
 # 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 # 			}
 # 		}
-# 		national_populist = {
+# 		fasci = {
 # 			male = {
 # 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 # 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"
 # 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_3.png"
 # 			}
 # 		}
-# 		valkist = {
+# 		paternal_autocrat = {
 # 			male = {
 # 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_4.png"
 # 				"gfx/leaders/Generic/Portrait_Arabia_Generic_new_6.png"

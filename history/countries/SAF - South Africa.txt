@@ -106,8 +106,8 @@ set_popularities = {
   social_conservative = 0
   authoritarian_democrat = 42
   paternal_autocrat = 12
-  national_populist = 0
-  valkist = 4
+  fasci = 0
+  paternal_autocrat = 4
 }
 
 recruit_character = SAF_James_La_Guma

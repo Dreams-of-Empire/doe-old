@@ -62,8 +62,8 @@ set_popularities = {
 	social_conservative = 22
 	authoritarian_democrat = 45
 	paternal_autocrat = 15
-	national_populist = 5
-	valkist = 0
+	fasci = 5
+	paternal_autocrat = 0
 }
 
 recruit_character = LBA_Italo_Balbo

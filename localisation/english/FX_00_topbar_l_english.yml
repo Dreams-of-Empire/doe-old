@@ -22,8 +22,8 @@
  party_pop_coalition_social_conservative: "- [?token:social_conservative.GetTokenLocalizedKey]\n"
  party_pop_coalition_authoritarian_democrat: "- [?token:authoritarian_democrat.GetTokenLocalizedKey]\n"
  party_pop_coalition_paternal_autocrat: "- [?token:paternal_autocrat.GetTokenLocalizedKey]\n"
- party_pop_coalition_national_populist: "- [?token:national_populist.GetTokenLocalizedKey]\n"
- party_pop_coalition_valkist: "- [?token:valkist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_national_populist: "- [?token:fasci.GetTokenLocalizedKey]\n"
+ party_pop_coalition_valkist: "- [?token:paternal_autocrat.GetTokenLocalizedKey]\n"
 
  add_to_coalition: "The §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! will join the coalition."
  remove_from_coalition: "The §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! will leave the coalition."

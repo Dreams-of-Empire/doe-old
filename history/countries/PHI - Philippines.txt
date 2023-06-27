@@ -106,8 +106,8 @@ set_popularities = {
 	market_liberal = 20
 	social_conservative = 40
 	authoritarian_democrat = 10
-	national_populist = 4
-	valkist = 12
+	fasci = 4
+	paternal_autocrat = 12
 }
 
 add_coalition_social_liberal = yes

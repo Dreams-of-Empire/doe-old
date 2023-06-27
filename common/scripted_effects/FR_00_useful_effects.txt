@@ -132,12 +132,12 @@ copy_government_of_ROOT = {
 		set_politics = { ruling_party = paternal_autocrat elections_allowed = no }
 	}
 	if = {
-		limit = { ROOT = { has_government = national_populist } }
-		set_politics = { ruling_party = national_populist elections_allowed = no }
+		limit = { ROOT = { has_government = fasci } }
+		set_politics = { ruling_party = fasci elections_allowed = no }
 	}
 	if = {
-		limit = { ROOT = { has_government = valkist } }
-		set_politics = { ruling_party = valkist elections_allowed = no }
+		limit = { ROOT = { has_government = paternal_autocrat } }
+		set_politics = { ruling_party = paternal_autocrat elections_allowed = no }
 	}
 }
 
@@ -305,8 +305,8 @@ get_current_government_type = {
 	set_variable = { var = soccon value = party_popularity@social_conservative }
 	set_variable = { var = authdem value = party_popularity@authoritarian_democrat }
 	set_variable = { var = pataut value = party_popularity@paternal_autocrat }
-	set_variable = { var = natpop value = party_popularity@national_populist }
-	set_variable = { var = valk value = party_popularity@valkist }
+	set_variable = { var = natpop value = party_popularity@fasci }
+	set_variable = { var = valk value = party_popularity@paternal_autocrat }
 
 	if = {
 		limit = { has_government = libertarian_socialist }
@@ -345,11 +345,11 @@ get_current_government_type = {
 		set_country_flag = was_paternal_autocrat
 	}
 	if = {
-		limit = { has_government = national_populist }
+		limit = { has_government = fasci }
 		set_country_flag = was_national_populist
 	}
 	if = {
-		limit = { has_government = valkist }
+		limit = { has_government = paternal_autocrat }
 		set_country_flag = was_valkist
 	}
 }
@@ -394,11 +394,11 @@ restore_previous_government_type = {
 		}
 		if = {
 			limit = { has_country_flag = was_national_populist }
-			set_politics = { ruling_party = national_populist }
+			set_politics = { ruling_party = fasci }
 		}
 		if = {
 			limit = { has_country_flag = was_valkist }
-			set_politics = { ruling_party = valkist }
+			set_politics = { ruling_party = paternal_autocrat }
 		}
 		add_popularity = { ideology = libertarian_socialist popularity = -1.0 }
 		add_popularity = { ideology = libertarian_socialist popularity = libsoc }
@@ -418,10 +418,10 @@ restore_previous_government_type = {
 		add_popularity = { ideology = authoritarian_democrat popularity = authdem }
 		add_popularity = { ideology = paternal_autocrat popularity = -1.0 }
 		add_popularity = { ideology = paternal_autocrat popularity = pataut }
-		add_popularity = { ideology = national_populist popularity = -1.0 }
-		add_popularity = { ideology = national_populist popularity = natpop }
-		add_popularity = { ideology = valkist popularity = -1.0 }
-		add_popularity = { ideology = valkist popularity = valk }
+		add_popularity = { ideology = fasci popularity = -1.0 }
+		add_popularity = { ideology = fasci popularity = natpop }
+		add_popularity = { ideology = paternal_autocrat popularity = -1.0 }
+		add_popularity = { ideology = paternal_autocrat popularity = valk }
 
 		clear_variable = libsoc
 		clear_variable = collie

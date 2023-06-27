@@ -53,12 +53,12 @@ characters = {
 		}
 		country_leader = {
       desc = "POLITICS_ENG_GEORGE_V_DESC"
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 		country_leader = {
       desc = "POLITICS_ENG_GEORGE_V_DESC"
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}
@@ -1046,7 +1046,7 @@ characters = {
 				ROOT = { clr_country_flag = ENG_Archibald_Ramsay_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_pragmatic_statesman
 			}
 		}
@@ -1073,7 +1073,7 @@ characters = {
 				ROOT = { clr_country_flag = ENG_Rotha_Beryl_Lintorn_Orman_hog_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				hog_determined_populist
 			}
 		}
@@ -1384,7 +1384,7 @@ characters = {
 				ROOT = { clr_country_flag = ENG_Alexander_Raven_Thomson_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_radical_among_moderates
 			}
 		}
@@ -1708,7 +1708,7 @@ characters = {
 				ROOT = { clr_country_flag = ENG_Alliott_Vernon_Roe_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_balanced_budget_economy
 			}
 		}
@@ -2016,7 +2016,7 @@ characters = {
 				ROOT = { clr_country_flag = ENG_John_Beckett_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_prince_of_terror
 			}
 		}

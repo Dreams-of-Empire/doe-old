@@ -67,8 +67,8 @@ set_popularities = {
   social_conservative = 18
   authoritarian_democrat = 17
   paternal_autocrat = 7
-  national_populist = 5
-  valkist = 0
+  fasci = 5
+  paternal_autocrat = 0
 }
 set_politics = {	
 	ruling_party = authoritarian_democrat

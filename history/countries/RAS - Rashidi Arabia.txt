@@ -40,8 +40,8 @@ set_popularities = {
   social_conservative = 6
   authoritarian_democrat = 26
   paternal_autocrat = 50
-  national_populist = 8
-  valkist = 0
+  fasci = 8
+  paternal_autocrat = 0
 }
 
 

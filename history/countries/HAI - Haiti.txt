@@ -35,8 +35,8 @@ set_popularities = {
   social_conservative = 5
   authoritarian_democrat = 53
   paternal_autocrat = 0
-  national_populist = 17
-  valkist = 0
+  fasci = 17
+  paternal_autocrat = 0
 }
 
 recruit_character = HAI_Jacques_Roumain

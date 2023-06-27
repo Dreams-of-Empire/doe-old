@@ -58,21 +58,21 @@ scripted_gui = {
 					}
 				
 					set_temp_variable = {
-						fascism_X = party_popularity@national_populist
+						fascism_X = party_popularity@fasci
 					}
 					add_to_temp_variable = {
 						var = fascism_X
-						value = party_popularity@valkist
+						value = party_popularity@paternal_autocrat
 					}					
 					multiply_temp_variable = {
 						fascism_X = 210
 					}
 					set_temp_variable = {
-						fascism_Y = party_popularity@national_populist
+						fascism_Y = party_popularity@fasci
 					}
 					add_to_temp_variable = {
 						var = fascism_Y
-						value = party_popularity@valkist
+						value = party_popularity@paternal_autocrat
 					}					
 					multiply_temp_variable = {
 						fascism_Y = 112
@@ -207,10 +207,10 @@ scripted_gui = {
 					limit = {
 						is_faction_leader = yes
 						OR = {
-							has_government = national_populist
+							has_government = fasci
 							has_government = paternal_autocrat
 							has_government = authoritarian_democrat
-							has_government = valkist
+							has_government = paternal_autocrat
 						}
 						all_of_scopes = {
 							array = global.majors

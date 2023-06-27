@@ -189,14 +189,14 @@ save_current_party_popularities = {
 	add_to_temp_array = { saved_popularities = party_popularity_100@social_conservative }
 	add_to_temp_array = { saved_popularities = party_popularity_100@authoritarian_democrat }
 	add_to_temp_array = { saved_popularities = party_popularity_100@paternal_autocrat }
-	add_to_temp_array = { saved_popularities = party_popularity_100@national_populist }
+	add_to_temp_array = { saved_popularities = party_popularity_100@fasci }
 
 	set_temp_variable = { sum = 100 }
 	for_each_loop = {
 		array = saved_popularities
 		subtract_from_temp_variable = { sum = v }
 	}
-	add_to_temp_array = { saved_popularities = sum } #last value (valkist), calculated directly to avoid rounding errors
+	add_to_temp_array = { saved_popularities = sum } #last value (paternal_autocrat), calculated directly to avoid rounding errors
 }
 set_coalition_government_popularity = {
 	if = {
@@ -309,23 +309,23 @@ set_coalition_government_popularity = {
 	if = {
 		limit = {
 			NOT = {
-				has_government = national_populist
-				check_variable = { political_power_ideology = token:national_populist }
+				has_government = fasci
+				check_variable = { political_power_ideology = token:fasci }
 			}
-			is_in_array = { ROOT.coalition_partners = token:national_populist }
+			is_in_array = { ROOT.coalition_partners = token:fasci }
 		}
-		set_temp_variable = { coali_nat = THIS.party_popularity@national_populist }
+		set_temp_variable = { coali_nat = THIS.party_popularity@fasci }
 		add_to_variable = { coalition_ruling_combined_pop = coali_nat  }
 	}
 	if = {
 		limit = {
 			NOT = {
-				has_government = valkist
-				check_variable = { political_power_ideology = token:valkist }
+				has_government = paternal_autocrat
+				check_variable = { political_power_ideology = token:paternal_autocrat }
 			}
-			is_in_array = { ROOT.coalition_partners = token:valkist }
+			is_in_array = { ROOT.coalition_partners = token:paternal_autocrat }
 		}
-		set_temp_variable = { coali_val = THIS.party_popularity@valkist }
+		set_temp_variable = { coali_val = THIS.party_popularity@paternal_autocrat }
 		add_to_variable = { coalition_ruling_combined_pop = coali_val  }
 	}
 }
@@ -366,11 +366,11 @@ add_coalition_paternal_autocrat = {
 	add_to_coalition = yes 
 }
 add_coalition_national_populist = {
-	set_temp_variable = { coalition_partner_var = token:national_populist }
+	set_temp_variable = { coalition_partner_var = token:fasci }
 	add_to_coalition = yes 
 }
 add_coalition_valkist = {
-	set_temp_variable = { coalition_partner_var = token:valkist }
+	set_temp_variable = { coalition_partner_var = token:paternal_autocrat }
 	add_to_coalition = yes 
 }
 
@@ -411,11 +411,11 @@ remove_coalition_paternal_autocrat = {
 	remove_from_coalition = yes 
 }
 remove_coalition_national_populist = {
-	set_temp_variable = { coalition_partner_var = token:national_populist }
+	set_temp_variable = { coalition_partner_var = token:fasci }
 	remove_from_coalition = yes 
 }
 remove_coalition_valkist = {
-	set_temp_variable = { coalition_partner_var = token:valkist }
+	set_temp_variable = { coalition_partner_var = token:paternal_autocrat }
 	remove_from_coalition = yes 
 }
 

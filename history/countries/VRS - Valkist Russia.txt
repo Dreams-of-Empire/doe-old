@@ -8,7 +8,7 @@ set_war_support = 0.5
 # DIPLOMACY
 
 set_politics = {	
-	ruling_party = valkist
+	ruling_party = paternal_autocrat
 	last_election = "1935.9.8"
 	election_frequency = 48
 	elections_allowed = no
@@ -24,8 +24,8 @@ set_popularities = {
 	social_conservative = 0
 	authoritarian_democrat = 0
 	paternal_autocrat = 0
-	national_populist = 0
-	valkist = 50
+	fasci = 0
+	paternal_autocrat = 50
 }
 
 add_ideas = {

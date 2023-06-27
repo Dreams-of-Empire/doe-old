@@ -96,8 +96,8 @@ set_popularities = {
 	social_conservative = 0
 	authoritarian_democrat = 10
 	paternal_autocrat = 13
-	national_populist = 3
-	valkist = 5
+	fasci = 3
+	paternal_autocrat = 5
 }
 set_country_flag = can_replace_military_staff
 

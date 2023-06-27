@@ -403,7 +403,7 @@ characters = {
 				ROOT = { clr_country_flag = PRU_Carlos_Miro_Quesada_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_happy_amateur
 			}
 		}
@@ -454,7 +454,7 @@ characters = {
 				ROOT = { clr_country_flag = PRU_Jose_de_la_Riva_Aguero_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_old_compromiser
 			}
 		}
@@ -467,7 +467,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}
@@ -736,7 +736,7 @@ characters = {
 				ROOT = { clr_country_flag = PRU_Raul_Ferrero_Rebagliati_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_biased_intellectual
 			}
 		}
@@ -1423,7 +1423,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 	}

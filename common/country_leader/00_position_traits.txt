@@ -42,7 +42,7 @@ leader_traits = {
 	social_conservative = {}
 	authoritarian_democrat = {}
 	paternal_autocrat = {}
-	national_populist = {}
-	valkist = {}
+	fasci = {}
+	paternal_autocrat = {}
 
 }

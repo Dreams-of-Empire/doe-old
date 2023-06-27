@@ -127,7 +127,7 @@ spriteTypes = {
 		name = "GFX_idea_thonburi_panich"
 		texturefile = "gfx/interface/ideas/SIA/New_Company/Thonburi_Panich.dds"
 	}
-	##Valkist
+	##paternal_autocrat
 	spriteType = {
 		name = "GFX_idea_valkist_influence"
 		texturefile = "gfx/interface/ideas/SIA/company/valkist_influence_in_siam.dds"

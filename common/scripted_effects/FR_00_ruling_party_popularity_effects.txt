@@ -114,19 +114,19 @@ increase_ruling_party_popularity_by_5 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.05
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.05
 		}
 	}
@@ -216,19 +216,19 @@ increase_ruling_party_popularity_by_10 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.10
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.10
 		}
 	}
@@ -318,19 +318,19 @@ increase_ruling_party_popularity_by_15 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.15
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.15
 		}
 	}
@@ -420,19 +420,19 @@ increase_ruling_party_popularity_by_20 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.20
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.20
 		}
 	}
@@ -522,19 +522,19 @@ increase_ruling_party_popularity_by_25 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.25
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.25
 		}
 	}
@@ -624,19 +624,19 @@ increase_ruling_party_popularity_by_30 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.30
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.30
 		}
 	}
@@ -726,19 +726,19 @@ increase_ruling_party_popularity_by_35 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.35
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.35
 		}
 	}
@@ -828,19 +828,19 @@ increase_ruling_party_popularity_by_40 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.40
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.40
 		}
 	}
@@ -930,19 +930,19 @@ increase_ruling_party_popularity_by_45 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.45
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.45
 		}
 	}
@@ -1032,19 +1032,19 @@ increase_ruling_party_popularity_by_50 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = 0.50
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = 0.50
 		}
 	}
@@ -1134,19 +1134,19 @@ decrease_ruling_party_popularity_by_5 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.05
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.05
 		}
 	}
@@ -1236,19 +1236,19 @@ decrease_ruling_party_popularity_by_10 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.10
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.10
 		}
 	}
@@ -1338,19 +1338,19 @@ decrease_ruling_party_popularity_by_15 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.15
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.15
 		}
 	}
@@ -1440,19 +1440,19 @@ decrease_ruling_party_popularity_by_20 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.20
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.20
 		}
 	}
@@ -1542,19 +1542,19 @@ decrease_ruling_party_popularity_by_25 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.25
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.25
 		}
 	}
@@ -1644,19 +1644,19 @@ decrease_ruling_party_popularity_by_30 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.30
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.30
 		}
 	}
@@ -1746,19 +1746,19 @@ decrease_ruling_party_popularity_by_35 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.35
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.35
 		}
 	}
@@ -1848,19 +1848,19 @@ decrease_ruling_party_popularity_by_40 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.40
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.40
 		}
 	}
@@ -1950,19 +1950,19 @@ decrease_ruling_party_popularity_by_45 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.45
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.45
 		}
 	}
@@ -2052,19 +2052,19 @@ decrease_ruling_party_popularity_by_50 = {
 	}
 	if = {
 		limit = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		add_popularity = {
-			ideology = national_populist
+			ideology = fasci
 			popularity = -0.50
 		}
 	}
 	if = {
 		limit = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		add_popularity = {
-			ideology = valkist
+			ideology = paternal_autocrat
 			popularity = -0.50
 		}
 	}

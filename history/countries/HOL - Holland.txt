@@ -100,7 +100,7 @@ add_ideas = {
 }
 
 set_politics = {	
-	ruling_party = national_populist
+	ruling_party = fasci
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -116,8 +116,8 @@ set_popularities = {
   social_conservative = 9
   authoritarian_democrat = 17
   paternal_autocrat = 15
-  national_populist = 45
-  valkist = 0
+  fasci = 45
+  paternal_autocrat = 0
 }
 add_coalition_authoritarian_democrat = yes 
 add_coalition_paternal_autocrat = yes 

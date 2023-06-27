@@ -162,7 +162,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 	}
@@ -174,7 +174,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}
@@ -576,7 +576,7 @@ characters = {
 				ROOT = { clr_country_flag = EST_Hjalmar_Mae_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_determined_populist
 			}
 		}
@@ -595,7 +595,7 @@ characters = {
 				ROOT = { clr_country_flag = EST_Hjalmar_Mae_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_great_compromiser
 			}
 		}
@@ -1206,7 +1206,7 @@ characters = {
 				ROOT = { clr_country_flag = EST_Karl_Sigismund_Litzmann_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_prince_of_terror
 			}
 		}
@@ -1233,7 +1233,7 @@ characters = {
 				ROOT = { clr_country_flag = EST_Oskar_Angelus_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_man_of_the_people
 			}
 		}

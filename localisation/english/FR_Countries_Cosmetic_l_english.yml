@@ -315,7 +315,7 @@ LTR_valkist: "Res Publica Latiniae"
 LTR_valkist_ADJ: "Latinus"
 LTR_valkist_DEF: "Et Res Publica Latiniae"
 
-# Valkist Britian
+# paternal_autocrat Britian
 EGL_puppet_vanguardist: "Union of Britian"
 EGL_puppet_vanguardist_ADJ: "British"
 EGL_puppet_vanguardist_DEF: "The Union of Britian"
@@ -350,7 +350,7 @@ EGL_puppet_valkist: "Britischer Freistaat"
 EGL_puppet_valkist_ADJ: "Britischer"
 EGL_puppet_valkist_DEF: "Der Britische Freistaat"
 
-# Valkist England
+# paternal_autocrat England
 EGL_puppet2_vanguardist: "Union of England"
 EGL_puppet2_vanguardist_ADJ: "English"
 EGL_puppet2_vanguardist_DEF: "The Union of England"
@@ -385,7 +385,7 @@ EGL_puppet2_valkist: "Englische Freistaat"
 EGL_puppet2_valkist_ADJ: "Englisch"
 EGL_puppet2_valkist_DEF: "Der Englische Freistaat"
 
-# Valkist Scotland
+# paternal_autocrat Scotland
 SCO_puppet_vanguardist: "Union of Scotland"
 SCO_puppet_vanguardist_ADJ: "Scotish"
 SCO_puppet_vanguardist_DEF: "The Union of Scotland"
@@ -420,7 +420,7 @@ SCO_puppet_valkist: "Schottischer Freistaat"
 SCO_puppet_valkist_ADJ: "Schottisch"
 SCO_puppet_valkist_DEF: "Der Schottische Freistaat"
 
-#Valkist Ireland
+#paternal_autocrat Ireland
 IRE_puppet_vanguardist: "Union of Ireland"
 IRE_puppet_vanguardist_ADJ: "Irish"
 IRE_puppet_vanguardist_DEF: "The Union of Ireland"
@@ -486,9 +486,9 @@ ROM_king_paternal_autocrat_DEF: "The Greater Romanian State"
 ROM_king_national_populist: "Romanian Empire"
 ROM_king_national_populist_ADJ: "Romanian"
 ROM_king_national_populist_DEF: "The Empire of Romania"
-ROM_king_valkist: "Valkist Romania"
+ROM_king_valkist: "paternal_autocrat Romania"
 ROM_king_valkist_ADJ: "Romanian"
-ROM_king_valkist_DEF: "The Valkist Empire of Romania"
+ROM_king_valkist_DEF: "The paternal_autocrat Empire of Romania"
 
 #Romania/Wallachia
 ROM_WAL_vanguardist: "Wallachia"

@@ -127,8 +127,8 @@ set_popularities = {
 	social_conservative = 56
 	authoritarian_democrat = 1
 	paternal_autocrat = 0
-	national_populist = 16
-	valkist = 0
+	fasci = 16
+	paternal_autocrat = 0
 }
 
 ### Ship Variants ###

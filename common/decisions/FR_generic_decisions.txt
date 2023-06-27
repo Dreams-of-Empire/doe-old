@@ -305,10 +305,10 @@ political_actions_right = {
 		fire_only_once = no #May take this decision multiple times
 		days_re_enable = 730 #2 years until the decision may be taken again
 		available = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		visible = {
-			has_government = national_populist
+			has_government = fasci
 		}
 		complete_effect = {
 			log = "[GetDateText]: [Root.GetName]: Decision increase_popularity_natpop"
@@ -324,10 +324,10 @@ political_actions_right = {
 		fire_only_once = no #May take this decision multiple times
 		days_re_enable = 730 #2 years until the decision may be taken again
 		available = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		visible = {
-			has_government = valkist
+			has_government = paternal_autocrat
 		}
 		complete_effect = {
 			log = "[GetDateText]: [Root.GetName]: Decision increase_popularity_valkist"
@@ -346,15 +346,15 @@ political_actions_right = {
 		available = {
 			OR = {
 				has_government = paternal_autocrat
-				has_government = national_populist
-				has_government = valkist
+				has_government = fasci
+				has_government = paternal_autocrat
 			}
 		}
 		visible = {
 			OR = {
 				has_government = paternal_autocrat
-				has_government = national_populist
-				has_government = valkist
+				has_government = fasci
+				has_government = paternal_autocrat
 			}
 		}
 		modifier = {
@@ -423,8 +423,8 @@ political_actions = {
 			OR = {
 				has_government = authoritarian_democrat
 				has_government = paternal_autocrat
-				has_government = national_populist
-				has_government = valkist
+				has_government = fasci
+				has_government = paternal_autocrat
 			}
 			NOT = {
 				has_country_flag = NO_GENERIC_STABILITY_DECISIONS
@@ -1376,11 +1376,11 @@ war_measures = {
 					has_war_support > 0.79
 				}
 				AND = {
-					has_government = national_populist
+					has_government = fasci
 					has_war_support > 0.79
 				}
 				AND = {
-					has_government = valkist
+					has_government = paternal_autocrat
 					has_war_support > 0.85
 				}
 			}

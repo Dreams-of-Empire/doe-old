@@ -527,19 +527,19 @@ PHI_create_papal_state = {
   ITP = {
     set_cosmetic_tag = ITA_PAP
     set_politics = {
-      ruling_party = national_populist
+      ruling_party = fasci
       elections_allowed = no
       name = ITP_pope_party
       long_name = ITP_pope_party_long
     }
     add_popularity = {
-      ideology = national_populist
+      ideology = fasci
       popularity = 0.45
     }
     ITA_Pope_Julius_IV = {
       promote_character = yes
       remove_trait = {
-        ideology = national_populist_subtype
+        ideology = fasci_subtype
         trait = exiled_pope
       }
     }
@@ -642,22 +642,22 @@ PHI_add_governor_general = {
         }
       }
       if = {
-        limit = { has_ideology = national_populist_subtype }
-        promote_character = { ideology = national_populist_subtype }
+        limit = { has_ideology = fasci_subtype }
+        promote_character = { ideology = fasci_subtype }
       }
       else = {
         add_country_leader_role = {
-          country_leader = { ideology = national_populist_subtype }
+          country_leader = { ideology = fasci_subtype }
           promote_leader = yes
         }
       }
       if = {
-        limit = { has_ideology = valkist_subtype }
-        promote_character = { ideology = valkist_subtype }
+        limit = { has_ideology = paternal_autocrat_subtype }
+        promote_character = { ideology = paternal_autocrat_subtype }
       }
       else = {
         add_country_leader_role = {
-          country_leader = { ideology = valkist_subtype }
+          country_leader = { ideology = paternal_autocrat_subtype }
           promote_leader = yes
         }
       }
@@ -777,24 +777,24 @@ PHI_remove_governor_general = {
   }
   PHI_Andres_Soriano = {
     if = {
-      limit = { has_ideology = national_populist_subtype }
-      promote_character = { ideology = national_populist_subtype }
+      limit = { has_ideology = fasci_subtype }
+      promote_character = { ideology = fasci_subtype }
     }
     else = {
       add_country_leader_role = {
-        country_leader = { ideology = national_populist_subtype }
+        country_leader = { ideology = fasci_subtype }
         promote_leader = yes
       }
     }
   }
   PHI_Benigno_Ramos = {
     if = {
-      limit = { has_ideology = valkist_subtype }
-      promote_character = { ideology = valkist_subtype }
+      limit = { has_ideology = paternal_autocrat_subtype }
+      promote_character = { ideology = paternal_autocrat_subtype }
     }
     else = {
       add_country_leader_role = {
-        country_leader = { ideology = valkist_subtype }
+        country_leader = { ideology = paternal_autocrat_subtype }
         promote_leader = yes
       }
     }

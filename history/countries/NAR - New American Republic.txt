@@ -22,7 +22,7 @@ set_popularities = {
 	social_conservative = 4
 	authoritarian_democrat = 16
 	paternal_autocrat = 30
-	national_populist = 2
+	fasci = 2
 }
 
 set_variable = { var = minority_suppression value = 50 }

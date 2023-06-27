@@ -143,7 +143,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 	}
@@ -155,7 +155,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}
@@ -821,7 +821,7 @@ characters = {
 				ROOT = { clr_country_flag = DEN_Max_Arildskov_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_silent_workhorse
 			}
 		}
@@ -1145,7 +1145,7 @@ characters = {
 				ROOT = { clr_country_flag = DEN_Axel_Christian_Hartel_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_ideological_crusader
 			}
 		}
@@ -1588,7 +1588,7 @@ characters = {
 				ROOT = { clr_country_flag = DEN_Arent_Lemvigh_Muller_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_mixed_economy
 			}
 		}
@@ -1831,7 +1831,7 @@ characters = {
 				ROOT = { clr_country_flag = DEN_Anders_Malling_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_crime_fighter
 			}
 		}

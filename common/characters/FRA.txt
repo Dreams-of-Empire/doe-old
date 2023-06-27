@@ -237,7 +237,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 	}
@@ -249,7 +249,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}
@@ -980,7 +980,7 @@ characters = {
 				ROOT = { clr_country_flag = FRA_Charles_Maurras_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_flamboyant_tough_guy
 			}
 		}
@@ -1007,7 +1007,7 @@ characters = {
 				ROOT = { clr_country_flag = FRA_Jacques_Doriot_hog_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				hog_underground_figurehead
 			}
 		}
@@ -1277,7 +1277,7 @@ characters = {
 				ROOT = { clr_country_flag = FRA_Maurice_Pujo_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_general_staffer
 			}
 		}
@@ -1579,7 +1579,7 @@ characters = {
 				ROOT = { clr_country_flag = FRA_Eugene_Deloncle_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_industrial_chemist
 			}
 		}
@@ -1822,7 +1822,7 @@ characters = {
 				ROOT = { clr_country_flag = FRA_Henri_Massis_sec_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				sec_efficient_sociopath
 			}
 		}

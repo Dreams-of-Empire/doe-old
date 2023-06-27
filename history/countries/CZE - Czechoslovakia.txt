@@ -84,8 +84,8 @@ set_popularities = {
     social_conservative = 9
     authoritarian_democrat = 9
     paternal_autocrat = 39
-    national_populist = 2
-    valkist = 0
+    fasci = 2
+    paternal_autocrat = 0
 }
 
 recruit_character = CZE_Josef_Snejdarek

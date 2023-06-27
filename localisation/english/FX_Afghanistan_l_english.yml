@@ -31,9 +31,9 @@ AFG_paternal_autocrat_DEF: "The Kingdom of Afghanistan"
 AFG_national_populist: "Kingdom of Afghanistan"
 AFG_national_populist_ADJ: "Afghan"
 AFG_national_populist_DEF: "The Kingdom of Afghanistan"
-AFG_valkist: "Valkist Empire of Afghanistan"
+AFG_valkist: "paternal_autocrat Empire of Afghanistan"
 AFG_valkist_ADJ: "Afghan"
-AFG_valkist_DEF: "The Valkist Empire of Afghanistan"
+AFG_valkist_DEF: "The paternal_autocrat Empire of Afghanistan"
 
 ### Parties
 AFG_vanguardist_party: "Weekh Zalmian"

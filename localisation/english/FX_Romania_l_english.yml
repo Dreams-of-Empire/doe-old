@@ -436,7 +436,7 @@ ROM_fight_reactionaries_desc: ""
 ROM_join_the_internationale: "Join the Internationale"
 ROM_join_the_internationale_desc: ""
 ROM_join_the_internationale_tt: "£decision_icon_small  §YDecisions§! concerning joining the §c[SOV.GetFactionName]§! will be §Yunlocked§!"
-# Valkist
+# paternal_autocrat
 ROM_the_iron_guard_in_power: "The Iron Guard in Power"
 ROM_the_iron_guard_in_power_desc: ""
 ROM_the_iron_guard_in_power_tt: "§GThis focus will be automatically be bypassed once the Iron Guard is in power.§!"

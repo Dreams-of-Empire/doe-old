@@ -62,8 +62,8 @@ set_popularities = {
   social_conservative = 27
   authoritarian_democrat = 32
   paternal_autocrat = 10
-  national_populist = 0
-  valkist = 0
+  fasci = 0
+  paternal_autocrat = 0
 }
 
 recruit_character = KUR_Jeladet_Bedir_Khan

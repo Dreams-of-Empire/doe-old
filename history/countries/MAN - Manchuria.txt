@@ -95,8 +95,8 @@ set_popularities = {
   social_conservative = 12
   authoritarian_democrat = 46
   paternal_autocrat = 9
-  national_populist = 11
-  valkist = 0
+  fasci = 11
+  paternal_autocrat = 0
 }
 
 recruit_character = MAN_Tang_Hualong

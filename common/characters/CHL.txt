@@ -504,7 +504,7 @@ characters = {
 				ROOT = { clr_country_flag = CHL_Adolfo_Matthei_Schwarzenberg_hog_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				hog_political_protege
 			}
 		}
@@ -531,7 +531,7 @@ characters = {
 				ROOT = { clr_country_flag = CHL_Francisco_Javier_Diaz_Valderrama_hog_val_hired }
 			}
 			traits = {
-				valkist
+				paternal_autocrat
 				hog_determined_populist
 			}
 		}
@@ -975,7 +975,7 @@ characters = {
 				ROOT = { clr_country_flag = CHL_Fernando_Guarello_Fitz_Henry_for_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				for_hawkish_intervener
 			}
 		}
@@ -1358,7 +1358,7 @@ characters = {
 				ROOT = { clr_country_flag = CHL_Evaldo_Klein_Doener_eco_npo_hired }
 			}
 			traits = {
-				national_populist
+				fasci
 				eco_national_liberal
 			}
 		}
@@ -2157,7 +2157,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = national_populist_subtype
+			ideology = fasci_subtype
 			traits = { }
 		}
 	}
@@ -2169,7 +2169,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = valkist_subtype
+			ideology = paternal_autocrat_subtype
 			traits = { }
 		}
 	}

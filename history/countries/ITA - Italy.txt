@@ -152,8 +152,8 @@ set_popularities = {
 	social_conservative = 5
 	authoritarian_democrat = 2
 	paternal_autocrat = 1
-	national_populist = 5
-	valkist = 10
+	fasci = 5
+	paternal_autocrat = 10
 }
 
 ITA_add_armour_variants = yes

@@ -109,7 +109,7 @@ carspain.1.d: "While Galicia is more inclined to fight for conservative forces t
 carspain.1.a: "Loyalty to Spain will be Profitable."
 
 carspain.2.t: "Support from Valkists and Nationalists"
-carspain.2.d: "With news of our cause reaching the World, support has begun pouring in. From countries like Valkist Germany, the Dutch State, Italy, Norway, and Sweden, Nationalists and Valkists are volunteering for our fight. Especially from our valkist friends in Berlin."
+carspain.2.d: "With news of our cause reaching the World, support has begun pouring in. From countries like paternal_autocrat Germany, the Dutch State, Italy, Norway, and Sweden, Nationalists and Valkists are volunteering for our fight. Especially from our paternal_autocrat friends in Berlin."
 carspain.2.a: "Thank You, Allies of Spain!"
 
 carspain.3.t: "Madrid Under Our Control"
@@ -176,7 +176,7 @@ carspain.102.d: "The coalition between many nationalist groups, parties, and mil
 carspain.102.a: "We Need to Figure This Out!"
 
 carspain.103.t: "The Martyr's Succsessor"
-carspain.103.d: "While Onésimo Redondo, who can be described as the father of Spanish National Syndicalism, is dead, his ideas are not. In his place Ramiro Ledesma Ramos has become a leader for the National Syndicalists. Together with other radicals, they have organized into the Juntas Castellanas de Actuación Hispánica. This faction, with inspiration and support from Valkist Germany, might pose a threat to the Coalition, and our own personal power. But they might also be a potential ally in the power struggle that seems to inevitable."
+carspain.103.d: "While Onésimo Redondo, who can be described as the father of Spanish National Syndicalism, is dead, his ideas are not. In his place Ramiro Ledesma Ramos has become a leader for the National Syndicalists. Together with other radicals, they have organized into the Juntas Castellanas de Actuación Hispánica. This faction, with inspiration and support from paternal_autocrat Germany, might pose a threat to the Coalition, and our own personal power. But they might also be a potential ally in the power struggle that seems to inevitable."
 carspain.103.a: "Better Them Than the Traditionalists!"
 carspain.103.b: "We Are Strong Enough on Our Own!"
 
@@ -276,7 +276,7 @@ SPF_power_movement: "Empower the Movement"
 SPF_power_movement_desc: ""
 SPF_legitimacy_strong: "Legitimacy of the Strong"
 SPF_legitimacy_strong_desc: ""
-SPF_valkist_friends: "Our Valkist Friends"
+SPF_valkist_friends: "Our paternal_autocrat Friends"
 SPF_valkist_friends_desc: ""
 SPF_fighters_new_age: "The Fighters For the New Age"
 SPF_fighters_new_age_desc: ""
@@ -509,7 +509,7 @@ SPF_foreign_policy: "The Foreign Politics of the Spanish Nation"
 SPF_foreign_policy_desc: "With the socialists and republicans who were holding our nation back defeated, it is time for the §YSpanish Nation§! to find its grander place in the world. Not all countries and governments recognize us as the legitimate government of Spain. This, among other matters, we will need to overcome."
 
 SPF_join_stahlpakt: "Join the Stahlpakt"
-SPF_join_stahlpakt_desc: "Through the civil war, Valkist Germany was a good international friend. Even if they support the National Syndicalists, their help helped us win this war. We need to repay their support and join in a new world order."
+SPF_join_stahlpakt_desc: "Through the civil war, paternal_autocrat Germany was a good international friend. Even if they support the National Syndicalists, their help helped us win this war. We need to repay their support and join in a new world order."
 SPF_strengthen_german_ties: "Strengthen German Ties"
 SPF_strengthen_german_ties_desc: "Germany was one of our biggest supporters during the civil war. Certainly, we owe them strengthened ties between Madrid and Berlin."
 SPF_promote_hispanimo: "Promote Overseas Hispanismo"

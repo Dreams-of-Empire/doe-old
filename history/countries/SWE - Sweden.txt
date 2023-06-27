@@ -119,8 +119,8 @@ set_popularities = {
   social_conservative = 24
   authoritarian_democrat = 10
   paternal_autocrat = 10
-  national_populist = 6
-  valkist = 2
+  fasci = 6
+  paternal_autocrat = 2
 }
 
 give_guarantee = FIN
