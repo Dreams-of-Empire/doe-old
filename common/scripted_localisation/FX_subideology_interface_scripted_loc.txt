@@ -56,9 +56,9 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = libsoc_utopian_socialism_subtype
+			has_country_leader_ideology = utopianism_subtype
 		}
-		localization_key = libsoc_utopian_socialism_subtype
+		localization_key = utopianism_subtype
 	}
 	text = {
 		trigger = {
@@ -452,9 +452,9 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = libsoc_utopian_socialism_subtype
+			has_country_leader_ideology = utopianism_subtype
 		}
-		localization_key = libsoc_utopian_socialism_subtype
+		localization_key = utopianism_subtype
 	}
 	text = {
 		trigger = {
@@ -781,9 +781,9 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = libsoc_utopian_socialism_subtype
+			has_country_leader_ideology = utopianism_subtype
 		}
-		localization_key = libsoc_utopian_socialism_subtype_desc
+		localization_key = utopianism_subtype_desc
 	}
 	text = {
 		trigger = {
@@ -1183,9 +1183,9 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = libsoc_utopian_socialism_subtype
+			has_country_leader_ideology = utopianism_subtype
 		}
-		localization_key = libsoc_utopian_socialism_subtype_desc
+		localization_key = utopianism_subtype_desc
 	}
 	text = {
 		trigger = {
@@ -1487,7 +1487,7 @@ defined_text = {
 			OR = {
 				has_country_leader_ideology = libertarian_socialist_subtype
 				has_country_leader_ideology = socialist_feminist_subtype
-				has_country_leader_ideology = libsoc_utopian_socialism_subtype
+				has_country_leader_ideology = utopianism_subtype
 				has_country_leader_ideology = anarcho_syndicalism_subtype
 				has_country_leader_ideology = agrarian_socialism_subtype
 				has_country_leader_ideology = bukharinist_subtype

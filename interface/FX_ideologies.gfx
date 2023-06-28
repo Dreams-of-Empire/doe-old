@@ -37,7 +37,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/subideologies/monsoc_group.png"
 	}
 	spriteType = {
-		name = "GFX_ideology_libsoc_utopian_socialism_subtype"
+		name = "GFX_ideology_utopianism_subtype"
 		texturefile = "gfx/interface/ideologies/subideologies/libsoc_utopian.png"
 	}
 	spriteType = {

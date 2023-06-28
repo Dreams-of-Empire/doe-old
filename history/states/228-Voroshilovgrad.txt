@@ -11,8 +11,8 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		add_claim_by = SOV
-		add_core_of = UKR
+		add_claim_by = RUS
+		add_core_of = RUT
 	}
 
 	provinces={

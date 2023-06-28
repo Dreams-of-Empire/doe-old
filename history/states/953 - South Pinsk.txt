@@ -10,8 +10,8 @@ state={
 			air_base = 3
 
 		}
-		add_claim_by = BLR
-		add_core_of = UKR
+		add_claim_by = RUT
+		add_core_of = RUT
 
 	}
 

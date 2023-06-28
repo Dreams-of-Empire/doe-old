@@ -13,6 +13,8 @@ set_technology = {
   basic_train = 1
 }
 
+set_cosmetic_tag = ENG_ETH
+
 set_politics = {	
 	ruling_party = authoritarian_democrat
 	last_election = "1936.1.1"

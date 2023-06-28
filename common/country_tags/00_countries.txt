@@ -86,6 +86,7 @@ BOS = "countries/EastEuropean.txt" # Bosnia
 VRS = "countries/EastEuropean.txt" # paternal_autocrat Russia
 CRO = "countries/EastEuropean.txt" # Croatia
 UKR = "countries/EastEuropean.txt" # Ukraine
+RUT = "countries/EastEuropean.txt" # Ruthenia
 GEO = "countries/EastEuropean.txt" # Georgia
 GOR = "countries/EastEuropean.txt" # Mountain Republic
 MOL = "countries/EastEuropean.txt" # Moldova

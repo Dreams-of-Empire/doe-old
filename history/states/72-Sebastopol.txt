@@ -7,6 +7,7 @@ state={
 	
 	history={
 		owner = RUS
+		add_core_of = RUS
 		victory_points = {
 			3686 20
 		}
@@ -18,7 +19,7 @@ state={
 				coastal_bunker = 3
 			}
 		}
-		add_core_of = UKR
+		add_core_of = RUT
 	}
 
 	provinces={

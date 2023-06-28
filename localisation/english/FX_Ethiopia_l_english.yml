@@ -39,6 +39,7 @@ ETH_valkist_DEF: "Abyssinia"
 ETH_ITA_subject: "Italian East Africa"
 ETH_ITA_subject_DEF: "Italian East Africa"
 ETH_ITA_subject_ADJ: "Italian East-African"
+ENG_ETH: "British Ethiopia and Somalia"
 
 ### Parties
 ETH_authoritarian_democrat_party: "House of Solomon"

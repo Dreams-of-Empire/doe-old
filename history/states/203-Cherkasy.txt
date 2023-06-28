@@ -11,7 +11,7 @@ state={
 			industrial_complex = 3
 
 		}
-		add_core_of = UKR
+		add_core_of = RUT
 		victory_points = {
 			488 1
 		}
