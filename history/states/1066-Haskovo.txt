@@ -5,7 +5,8 @@ state={
 		878 
 	}
 	history = {
-		owner = BUL
+		owner = THR
+		add_core_of = THR
 		add_core_of = BUL
 	}
 	manpower=28967

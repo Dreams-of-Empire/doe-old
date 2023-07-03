@@ -4,7 +4,7 @@ state={
 	name="STATE_97"
 
 	history={
-		owner = RUS
+		owner = POL
 		victory_points = {
 			3393 1 
 		}
@@ -15,12 +15,13 @@ state={
 
 		}
 		add_core_of = RUT
+        add_core_of = POL
         add_core_of = RUS
 
 	}
 
 	provinces={
-		318 3281 3366 3393 11247 
+		318 3281 3366 3393 11247 3256
 	}
 	manpower=1598900
 	buildings_max_level_factor=1.000
