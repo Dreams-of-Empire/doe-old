@@ -39,7 +39,7 @@ NAP = "countries/WestEuropean.txt" # Naples
 SIC = "countries/WestEuropean.txt" # Sicily
 LOM = "countries/WestEuropean.txt" # Lombardy
 PIE = "countries/WestEuropean.txt" # Piedmont
-SRV = "countries/WestEuropean.txt" # Venice
+SRV = "countries/WestEuropean.txt" # Venice(
 ITP = "countries/WestEuropean.txt" # Italian Puppet
 UPC = "countries/WestEuropean.txt" # United Provinces of Central Italy
 COR = "countries/WestEuropean.txt" # Corsica
@@ -58,6 +58,10 @@ FIC = "countries/WestEuropean.txt" # French Indochina
 DEI = "countries/WestEuropean.txt" # Dutch East Indies
 LUX = "countries/WestEuropean.txt" # Luxembourg
 MLT = "countries/WestEuropean.txt" # Malta
+THU = "countries/WestEuropean.txt" # Thüringen
+PRS = "countries/WestEuropean.txt" # Prussia
+WUR = "countries/WestEuropean.txt" # Wurttemberg
+BAD = "countries/WestEuropean.txt" # Baden
 
 ### Eastern European
 SOV = "countries/EastEuropean.txt" # Soviet Union

@@ -5,12 +5,12 @@ state={
 
 	history={
 		
-		owner = GER
+		owner = PRS
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = GER
+		add_core_of = PRS
 
 	}
 

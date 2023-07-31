@@ -1074,3 +1074,19 @@ THR = {
 	color = rgb { 0 153 153 }
 	color_ui = rgb { 0 153 153 }
 }
+PRS = {
+	color = rgb { 90 100 80 }
+	color_ui = rgb { 80 90 100 }
+}
+BAD = {
+	color = rgb { 188 66 66 }
+	color_ui = rgb { 188 66 66 }
+}
+WUR = {
+	color = rgb { 104 90 100 }
+	color_ui = rgb { 104 90 100 }
+}
+THU = {
+	color = rgb { 104 5 104 }
+	color_ui = rgb { 104 5 104 }
+}

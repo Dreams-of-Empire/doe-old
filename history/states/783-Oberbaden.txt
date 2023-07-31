@@ -4,7 +4,7 @@ state={
 
 	history={
 		
-		owner = GER
+		owner = BAD
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -21,7 +21,7 @@ state={
 				bunker = 3
 			}
 		}
-		add_core_of = GER
+		add_core_of = BAD
 		victory_points = {
 			6712 2 
 		}
