@@ -458,7 +458,7 @@
  STATE_452: "Marsa Matruh"
  STATE_453: "Sinai"
  STATE_454: "Palestine"
- STATE_455: "Amman"
+ STATE_455: "East Transjordan"
  STATE_456: "Aswan"
  STATE_457: "Eastern Desert"
  STATE_458: "Tunisia"
@@ -1070,3 +1070,4 @@
  STATE_1069: "Akrot. & Dhek."
  STATE_1070: "North Cyprus"
  STATE_1071: "Deir Al Zor"
+ STATE_1072: "Ma'an"
