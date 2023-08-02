@@ -54,13 +54,6 @@ add_ideas = {
 
 	constitutional_monarchy
 	
-	# IRQ_divided_nation
-
-	IRQ_hashmite_dynasty
-	IRQ_semi_democratic_state
-	IRQ_british_protection
-	IRQ_nationalist_unrest
-	IRQ_coalition_fraternal_communique
 }
 
 ENG = {
@@ -93,9 +86,8 @@ set_politics = {
 }
 
 set_popularities = {
-  vanguardist = 10
+  vanguardist = 18
   collectivist = 0
-  libertarian_socialist = 8
   social_democrat = 12
   social_liberal = 15
   market_liberal = 0

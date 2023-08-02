@@ -55,18 +55,6 @@ characters = {
 			traits = { }
 		}
 	}
-	IRQ_Salih_Jabr = {
-		name = "Salih Jabr"
-		portraits = {
-			civilian = {
-				large = "gfx/leaders/IRQ/Portrait_IRQ_Salih_Jabr.png"
-			}
-		}
-		country_leader = {
-			ideology = libertarian_socialist_subtype
-			traits = { }
-		}
-	}
 	IRQ_Rashid_Ali_al_Gaylani = {
 		name = "Rashid Ali al-Gaylani"
 		portraits = {
