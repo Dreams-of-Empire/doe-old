@@ -10,8 +10,12 @@ ideologies = {
 	collectivist = {
 		types = {
 			collectivist_subtype = {}
-			leninism_subtype = { can_be_randomly_selected = no }
+			# leninism_subtype = { can_be_randomly_selected = no }
 			utopianism_subtype = { can_be_randomly_selected = no }
+			materialism_subtype = { can_be_randomly_selected = no }
+			avantguardism_subtype = { can_be_randomly_selected = no }
+			marxism_subtype = { can_be_randomly_selected = no }
+			sorelianism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_collectivist_1"
@@ -44,6 +48,11 @@ ideologies = {
 	vanguardist = {
 		types = {
 			vanguardist_subtype = {}
+			popularism_subtype = { can_be_randomly_selected = no }
+			jacobinism_subtype = { can_be_randomly_selected = no }
+			unionism_subtype = { can_be_randomly_selected = no }
+			syndicalism_subtype = { can_be_randomly_selected = no }
+			guild_socialism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_VANGUARDIST_1"
@@ -76,16 +85,21 @@ ideologies = {
 	fasci = {
 		types = {
 			fasci_subtype = {} # default
-			legionarism_subtype = { can_be_randomly_selected = no }
-			monsoc_subtype = { can_be_randomly_selected = no }
+			# legionarism_subtype = { can_be_randomly_selected = no }
+			# monsoc_subtype = { can_be_randomly_selected = no }
+			communalism_subtype = { can_be_randomly_selected = no }
+			christian_socialism_subtype = { can_be_randomly_selected = no }
+			socialist_royalism_subtype = { can_be_randomly_selected = no }
+			neo_socialism_subtype = { can_be_randomly_selected = no }
+			folk_socialism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_NATIONAL_POPULIST_1"
-			"FACTION_NAME_NATIONAL_POPULIST_2"
-			"FACTION_NAME_NATIONAL_POPULIST_3"
-			"FACTION_NAME_NATIONAL_POPULIST_4"
-			"FACTION_NAME_NATIONAL_POPULIST_5"
-			"FACTION_NAME_NATIONAL_POPULIST_6"
+			"FACTION_NAME_FASCI_1"
+			"FACTION_NAME_FASCI_2"
+			"FACTION_NAME_FASCI_3"
+			"FACTION_NAME_FASCI_4"
+			"FACTION_NAME_FASCI_5"
+			"FACTION_NAME_FASCI_6"
 		}
 		color = { 94 50 11 } #142 57 0 is original
 		rules = {
@@ -106,14 +120,54 @@ ideologies = {
 		ai_neutral = yes	
 		#can_be_boosted = no
 	}
-	
+
+	illuminism = {
+		types = {
+			illuminism_subtype = {} # default
+			acephalism_subtype = { can_be_randomly_selected = no }
+			fraternism_subtype = { can_be_randomly_selected = no }
+			masonic_oligarchy_subtype = { can_be_randomly_selected = no }
+			jacobinism_subtype = { can_be_randomly_selected = no }
+			naturalism_subtype = { can_be_randomly_selected = no }
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_ILLUMINISM_1"
+			"FACTION_NAME_ILLUMINISM_2"
+			"FACTION_NAME_ILLUMINISM_3"
+			"FACTION_NAME_ILLUMINISM_4"
+			"FACTION_NAME_ILLUMINISM_5"
+			"FACTION_NAME_ILLUMINISM_6"
+		}
+		color = { 94 80 11 } #142 57 0 is original
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+			can_create_factions = no
+		}
+		modifiers = {
+			generate_wargoal_tension = 0.5
+			guarantee_tension = 0.5
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+		}
+		ai_neutral = yes	
+		#can_be_boosted = no
+	}
 	
 	social_democrat = {
 		types = {
 			social_democrat_subtype = {}
-			socdem_longism_subtype = { can_be_randomly_selected = no }
-			socdem_democratic_socialism_subtype = { can_be_randomly_selected = no }
+			# socdem_longism_subtype = { can_be_randomly_selected = no }
+			# socdem_democratic_socialism_subtype = { can_be_randomly_selected = no }
 			socdem_left_nationalism_subtype = { can_be_randomly_selected = no }
+			social_patriotism_subtype = { can_be_randomly_selected = no }
+			democratic_socialism_subtype = { can_be_randomly_selected = no }
+			reformist_jacobinism_subtype = { can_be_randomly_selected = no }
+			ethnic_socialism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_SOCIAL_DEMOCRAT_1"
@@ -144,20 +198,24 @@ ideologies = {
 
 	}
 	
-	social_liberal = {
+	liberal = {
 		types = {
-			social_liberal_subtype = {}
+			liberal_subtype = {}
+			market_liberal_subtype = { can_be_randomly_selected = no }
+			classical_liberalism_subtype = { can_be_randomly_selected = no }
 			centrist_subtype = { can_be_randomly_selected = no }
 			radical_liberalism_subtype = { can_be_randomly_selected = no }
 			venizelism_subtype = { can_be_randomly_selected = no }
+			americanism_subtype = { can_be_randomly_selected = no }
+			georgism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_SOCIAL_LIBERAL_1"
-			"FACTION_NAME_SOCIAL_LIBERAL_2"
-			"FACTION_NAME_SOCIAL_LIBERAL_3"
-			"FACTION_NAME_SOCIAL_LIBERAL_4"
-			"FACTION_NAME_SOCIAL_LIBERAL_5"
-			"FACTION_NAME_SOCIAL_LIBERAL_6"
+			"FACTION_NAME_LIBERAL_1"
+			"FACTION_NAME_LIBERAL_2"
+			"FACTION_NAME_LIBERAL_3"
+			"FACTION_NAME_LIBERAL_4"
+			"FACTION_NAME_LIBERAL_5"
+			"FACTION_NAME_LIBERAL_6"
 		}
 		color = { 245 160 0 } #Originally 255 170 0. Changed the tint so it's now noticeably different from Market Liberal's colour.
 		rules = {
@@ -178,51 +236,17 @@ ideologies = {
 		ai_neutral = yes		
 		#can_be_boosted = no
 	}
-
-	market_liberal = {
-		types = {
-			market_liberal_subtype = {}
-			marlib_centrist_subtype = { can_be_randomly_selected = no }
-			marlib_classical_liberalism_subtype = { can_be_randomly_selected = no }
-			liberal_conservative_subtype = { can_be_randomly_selected = no }
-			marlib_venizelism_subtype = { can_be_randomly_selected = no }
-		}
-		dynamic_faction_names = {
-			"FACTION_NAME_MARKET_LIBERAL_1"
-			"FACTION_NAME_MARKET_LIBERAL_2"
-			"FACTION_NAME_MARKET_LIBERAL_3"
-			"FACTION_NAME_MARKET_LIBERAL_4"
-			"FACTION_NAME_MARKET_LIBERAL_5"
-			"FACTION_NAME_MARKET_LIBERAL_6"
-		}
-		color = { 255 216 0 }
-		rules = {
-			can_force_government = no
-			can_puppet = no
-			can_join_factions = no
-			can_send_volunteers = yes
-			can_create_factions = no
-		}
-		modifiers = {
-			generate_wargoal_tension = 0.75
-			guarantee_tension = 0.75
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 5.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 5
-		}
-		ai_neutral = yes	
-		#can_be_boosted = no
-	}
 	
 	social_conservative = {
 		types = {
 			social_conservative_subtype = {}
 			christian_democracy_subtype = { can_be_randomly_selected = no }
+			religious_conservatism_subtype = { can_be_randomly_selected = no }
+			soccon_populism_subtype = { can_be_randomly_selected = no }
 			soccon_warlordism_subtype = { can_be_randomly_selected = no }
-			toryism_subtype = { can_be_randomly_selected = no }
 			national_conservative_subtype = { can_be_randomly_selected = no }
-			ukrainian_social_conservatism_subtype = { can_be_randomly_selected = no }
+			parliamentarism_subtype = { can_be_randomly_selected = no }
+			liberal_conservatism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_SOCIAL_CONSERVATIVE_1"
@@ -251,70 +275,27 @@ ideologies = {
 		ai_neutral = yes		
 		#can_be_boosted = no
 	}
-	
-	authoritarian_democrat = {
-		types = {
-			authoritarian_democrat_subtype = {}
-			authdem_national_conservative_subtype = { can_be_randomly_selected = no }
-			auth_duumvirism_subtype = { can_be_randomly_selected = no }
-			police_state_subtype = { can_be_randomly_selected = no }
-			authdem_junta_subtype = { can_be_randomly_selected = no }
-			authdem_warlordism_subtype = { can_be_randomly_selected = no }
-			colonial_govt_subtype = { can_be_randomly_selected = no }
-			oligarchy_subtype = { can_be_randomly_selected = no }
-			prussian_constitutionalism_subtype = { can_be_randomly_selected = no }
-			controlled_democracy_subtype = { can_be_randomly_selected = no }
-			hetmanism_subtype = { can_be_randomly_selected = no }
-		}
-		dynamic_faction_names = {
-			"FACTION_NAME_AUTHORITARIAN_DEMOCRAT_1"
-			"FACTION_NAME_AUTHORITARIAN_DEMOCRAT_2"
-			"FACTION_NAME_AUTHORITARIAN_DEMOCRAT_3"
-			"FACTION_NAME_AUTHORITARIAN_DEMOCRAT_4"
-			"FACTION_NAME_AUTHORITARIAN_DEMOCRAT_5"
-			"FACTION_NAME_AUTHORITARIAN_DEMOCRAT_6"
-		}
-		color = { 95 95 95 } #110 110 110 is original
-		rules = {
-			can_force_government = no
-			can_puppet = no
-			can_join_factions = no
-			can_send_volunteers = yes
-			can_create_factions = no
-		}
-		modifiers = {
-			generate_wargoal_tension = 0.75
-			guarantee_tension = 0.75
-			civilian_intel_to_others = 15.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 10.0
-			airforce_intel_to_others = 10.0
-		}
-		ai_neutral = yes		
-		#can_be_boosted = no
-	}
-	
-	paternal_autocrat = {
+
+	paternal = {
 		types = {
 			paternal_autocrat_subtype = {}
 			absolute_mon_subtype = { can_be_randomly_selected = no }
-			pat_duumvirism_subtype = { can_be_randomly_selected = no }
-			samurai_dictatorship_subtype = { can_be_randomly_selected = no }
 			junta_subtype = { can_be_randomly_selected = no }
 			autocratic_colonial_govt_subtype = { can_be_randomly_selected = no }
 			pataut_warlordism_subtype = { can_be_randomly_selected = no }
-			caudillo_populism_subtype = { can_be_randomly_selected = no }
 			corporatocracy_subtype = { can_be_randomly_selected = no }
+			unitarianism_subtype = { can_be_randomly_selected = no }
+			theodemocracy_subtype = { can_be_randomly_selected = no }
+			anocracy_subtype = { can_be_randomly_selected = no }
 			pataut_legionarism_subtype = { can_be_randomly_selected = no }
-			ukrainian_nationalism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_PATERNAL_AUTOCRAT_1"
-			"FACTION_NAME_PATERNAL_AUTOCRAT_2"
-			"FACTION_NAME_PATERNAL_AUTOCRAT_3"
-			"FACTION_NAME_PATERNAL_AUTOCRAT_4"
-			"FACTION_NAME_PATERNAL_AUTOCRAT_5"
-			"FACTION_NAME_PATERNAL_AUTOCRAT_6"
+			"FACTION_NAME_PATERNAL_1"
+			"FACTION_NAME_PATERNAL_2"
+			"FACTION_NAME_PATERNAL_3"
+			"FACTION_NAME_PATERNAL_4"
+			"FACTION_NAME_PATERNAL_5"
+			"FACTION_NAME_PATERNAL_6"
 		}
 		color = { 40 40 40 } #45 45 45
 		rules = {
@@ -340,6 +321,10 @@ ideologies = {
 		types = {
 			despotist_subtype = {} # default
 			integralism_subtype = { can_be_randomly_selected = no }
+			patrianovism_subtype = { can_be_randomly_selected = no }
+			bonapartism_subtype = { can_be_randomly_selected = no }
+			corporate_statism_subtype = { can_be_randomly_selected = no }
+			absolute_despotist_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_DESPOTIST_1"
@@ -367,5 +352,11 @@ ideologies = {
 		}
 		ai_neutral = yes	
 		#can_be_boosted = no
+	}
+
+	futurist = {
+		types = {
+			futurism_subtype = {} #default
+		}
 	}
 }

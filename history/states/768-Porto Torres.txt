@@ -3,7 +3,7 @@ state={
 	name="STATE_768"
 
 	history={
-		owner = ITA
+		owner = SAR
 		buildings = {
 			infrastructure = 2
 			air_base = 5
@@ -12,8 +12,7 @@ state={
 			}
 
 		}
-		add_core_of = ITA
-		add_claim_by = SAR
+		add_core_of = SAR
 		victory_points = {
 			9772 1 
 		}
