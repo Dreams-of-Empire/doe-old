@@ -1090,3 +1090,7 @@ THU = {
 	color = rgb { 104 5 104 }
 	color_ui = rgb { 104 5 104 }
 }
+PAP = {
+	color = rgb { 191 192 151 }
+	color_ui = rgb { 191 192 151 }
+}

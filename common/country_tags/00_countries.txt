@@ -101,6 +101,7 @@ SLV = "countries/EastEuropean.txt" # Slovenia
 ZSR = "countries/EastEuropean.txt" # Zapadoslavian Socialist Republic
 FYR = "countries/EastEuropean.txt" # Fyrom
 THR = "countries/EastEuropean.txt" # Thrace
+PAP = "countries/EastEuropean.txt" # Papal States
 
 ### North America
 USA = "countries/WestEuropean.txt" # United States

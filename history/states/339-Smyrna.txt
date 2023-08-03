@@ -22,7 +22,8 @@ state={
 
 		}
 		add_core_of = TUR
-
+		set_resistance = 10
+		start_resistance = yes
 	}
 
 	provinces={
