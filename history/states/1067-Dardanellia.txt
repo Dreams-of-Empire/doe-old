@@ -5,9 +5,10 @@ state = {
 		849 
 	}
 	history = {
-		owner = TUR
+		owner = THR
+		add_core_of = THR
 		add_core_of = TUR
-		add_claim_by = GRE
+		add_core_of = GRE
 	}
 	manpower = 23049
 	state_category = rural

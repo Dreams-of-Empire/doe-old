@@ -1,7 +1,9 @@
-﻿THR: "Thracian State"
-HUN: "Hungary"
-PRU: "Prussia"
-BAD: "Baden"
-THU: "Thuringen"
-WUR: "Wurttemberg"
-PAP: "Papal States"
+﻿l_english: 
+
+  THR: "Thracian State"
+  HUN: "Hungary"
+  PRU: "Prussia"
+  BAD: "Baden"
+  THU: "Thuringen"
+  WUR: "Wurttemberg"
+  PAP: "Papal States"
