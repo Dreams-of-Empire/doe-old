@@ -6,8 +6,9 @@ state={
 		6942 9894 11872 
 	}
 	history = {
-		owner = BOS
 		add_core_of = BOS
+		owner = CRO
+		add_core_of = CRO
 	}
 	manpower=249700
 	buildings_max_level_factor=1.000
