@@ -7,7 +7,7 @@ state={
 		add_core_of = SYR
 	}
 	provinces={
-		1578 1606 1634 6883 10882 901
+		1578 1606 1634 6883
 	}
 	manpower=41029
 	buildings_max_level_factor=1.000

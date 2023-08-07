@@ -48,20 +48,12 @@ if = {
 	}
 }
 
-set_cosmetic_tag = IRQ_mashriq
 
 add_ideas = {
 	party_pop_0_50
 
 	constitutional_monarchy
 	
-	# IRQ_divided_nation
-
-	IRQ_hashmite_dynasty
-	IRQ_semi_democratic_state
-	IRQ_british_protection
-	IRQ_nationalist_unrest
-	IRQ_coalition_fraternal_communique
 }
 
 ENG = {
@@ -78,55 +70,36 @@ ENG = {
 	}
 }
 
-ARB = {
-	add_opinion_modifier = {
-		target = IRQ
-		modifier = IRQ_the_hashmite_dynasty_ARB
-	}
-}
-TUR = {
-	add_opinion_modifier = {
-		target = IRQ
-		modifier = IRQ_the_hashmite_dynasty_TUR
-	}
-}
 
-set_temp_variable = {
-	coalition_partner_var = token:social_democrat
-}
-add_to_coalition = yes
-set_temp_variable = {
-	coalition_partner_var = token:social_conservative
-}
-add_to_coalition = yes
+
+
 
 set_convoys = 20
 set_stability = 0.47
 set_war_support = 0.72
 
 set_politics = {
-	ruling_party = social_democrat
+	ruling_party = authoritarian_democrat
 	last_election = "1935.08.04"
 	election_frequency = 60
 	elections_allowed = yes
 }
 
 set_popularities = {
-  vanguardist = 12
+  vanguardist = 18
   collectivist = 0
-  libertarian_socialist = 0
-  social_democrat = 34
-  social_liberal = 0
+  social_democrat = 12
+  social_liberal = 15
   market_liberal = 0
-  social_conservative = 26
-  authoritarian_democrat = 0
-  paternal_autocrat = 18
-  fasci = 7
-  paternal_autocrat = 3
+  social_conservative = 5
+  authoritarian_democrat = 40
+  paternal_autocrat = 0
+  fasci = 10
+  despotist = 0
 }
 
-# recruit_character = IRQ_Faisal_I_democrat
-recruit_character = IRQ_Faisal_I
+
+recruit_character = IRQ_Naji_I
 
 recruit_character = IRQ_Arshad_al_Umari
 recruit_character = IRQ_Yusuf_Salman_Yusuf

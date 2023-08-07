@@ -1,0 +1,27 @@
+
+state={
+	id=1072
+	name="STATE_1072"
+	provinces={
+		12101 4603 4562 1544
+	}
+	history = {
+		owner = ARB
+		buildings = {
+			infrastructure = 3
+			4603 = {
+				bunker = 2
+			}
+
+		}
+		victory_points = {
+			4603 2 
+		}
+		add_core_of = ARB
+
+	}
+	manpower=250654
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

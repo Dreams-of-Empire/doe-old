@@ -4,9 +4,9 @@ state={
 
 	history={
 		add_core_of = CRO
-		owner = TRA
-		add_claim_by = HUN
-		add_core_of = TRA
+		owner = SER
+		add_core_of = SER
+		add_claim_by = TRA
 		buildings = {
 			infrastructure = 3
 

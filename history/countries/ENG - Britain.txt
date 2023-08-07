@@ -204,6 +204,10 @@ if = {
 		autonomous_state = autonomy_colony
 		freedom_level = 0.5
 	}
+	set_autonomy = {
+		target = EGY
+		autonomy_state = autonomy_colony
+	}
 	else = {
 		puppet = RAJ
 		puppet = NFL
@@ -219,6 +223,7 @@ if = {
 		puppet = KEN
 		puppet = ETH
 		puppet = NGA
+		puppet = EGY
 	}
 }
 
