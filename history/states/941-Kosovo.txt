@@ -9,6 +9,7 @@ state={
             infrastructure = 2
 		}
 		add_core_of = SER
+		add_core_of = ALB
 		victory_points = {
 			9874 1 
 		}
